@@ -1,0 +1,10 @@
+model,metric,score
+salamandra-base,MultilingualMETEOR,0.16457836856556474
+salamandra-5w1h,MultilingualMETEOR,0.24805811430707383
+salamandra-tldr,MultilingualMETEOR,0.1777335164917108
+gpt5-base,MultilingualMETEOR,0.3059141303303472
+gpt5-5w1h,MultilingualMETEOR,0.2809010264164496
+gpt5-tldr,MultilingualMETEOR,0.2460424925973686
+llama3-base,MultilingualMETEOR,0.2426913427556955
+llama3-5w1h,MultilingualMETEOR,0.261137246719468
+llama3-tldr,MultilingualMETEOR,0.1958455889818706

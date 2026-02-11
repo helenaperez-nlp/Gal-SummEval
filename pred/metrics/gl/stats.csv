@@ -1,0 +1,91 @@
+model,metric,score
+salamandra-base,Length,158.4
+salamandra-base,Stats-compression,0.9492786658408311
+salamandra-base,Stats-density,0.5836627811177225
+salamandra-base,Stats-coverage,0.3920997967589544
+salamandra-base,Novel unigram,0.7762376247573551
+salamandra-base,Novel tri-gram,0.9798541045711419
+salamandra-base,Novel bi-gram,0.9414099756770771
+salamandra-base,Repeated unigram,0.1455183632916238
+salamandra-base,Repeated bi-gram,0.027608185852611346
+salamandra-base,Repeated tri-gram,0.008045433990183041
+salamandra-5w1h,Length,157.73333333333332
+salamandra-5w1h,Stats-compression,0.8979788910581323
+salamandra-5w1h,Stats-density,1.0783085854524854
+salamandra-5w1h,Stats-coverage,0.48416218475759437
+salamandra-5w1h,Novel unigram,0.6626527908658855
+salamandra-5w1h,Novel tri-gram,0.9385187333667092
+salamandra-5w1h,Novel bi-gram,0.8820108426281341
+salamandra-5w1h,Repeated unigram,0.24770620865672413
+salamandra-5w1h,Repeated bi-gram,0.10347509457799235
+salamandra-5w1h,Repeated tri-gram,0.06440133888675688
+salamandra-tldr,Length,139.46666666666667
+salamandra-tldr,Stats-compression,1.0529267314699167
+salamandra-tldr,Stats-density,0.7357599932181853
+salamandra-tldr,Stats-coverage,0.3892903300702872
+salamandra-tldr,Novel unigram,0.7327603490371102
+salamandra-tldr,Novel tri-gram,0.9646665301449353
+salamandra-tldr,Novel bi-gram,0.918028036340265
+salamandra-tldr,Repeated unigram,0.1824898930119667
+salamandra-tldr,Repeated bi-gram,0.05655264929517808
+salamandra-tldr,Repeated tri-gram,0.03506379864842064
+gpt5-base,Length,192.19999999999996
+gpt5-base,Stats-compression,0.7273165880577017
+gpt5-base,Stats-density,1.1702559487803743
+gpt5-base,Stats-coverage,0.5568696459876409
+gpt5-base,Novel unigram,0.6225828315222945
+gpt5-base,Novel tri-gram,0.9295844627577097
+gpt5-base,Novel bi-gram,0.8516476335574286
+gpt5-base,Repeated unigram,0.20505004030396276
+gpt5-base,Repeated bi-gram,0.033835966311844115
+gpt5-base,Repeated tri-gram,0.006607903487812541
+gpt5-5w1h,Length,217.73333333333332
+gpt5-5w1h,Stats-compression,0.6384023605764718
+gpt5-5w1h,Stats-density,1.0124886047872979
+gpt5-5w1h,Stats-coverage,0.5265026815694994
+gpt5-5w1h,Novel unigram,0.6472135754171244
+gpt5-5w1h,Novel tri-gram,0.9492745278955509
+gpt5-5w1h,Novel bi-gram,0.8869613843918337
+gpt5-5w1h,Repeated unigram,0.26186972106293155
+gpt5-5w1h,Repeated bi-gram,0.06485033316880555
+gpt5-5w1h,Repeated tri-gram,0.0164032892109559
+gpt5-tldr,Length,106.33333333333333
+gpt5-tldr,Stats-compression,1.3710509191694709
+gpt5-tldr,Stats-density,1.2712433126660072
+gpt5-tldr,Stats-coverage,0.5894451330395808
+gpt5-tldr,Novel unigram,0.536846570157623
+gpt5-tldr,Novel tri-gram,0.9206579495878356
+gpt5-tldr,Novel bi-gram,0.8231669966050635
+gpt5-tldr,Repeated unigram,0.15526856226229804
+gpt5-tldr,Repeated bi-gram,0.01174966109333419
+gpt5-tldr,Repeated tri-gram,0.0007662835249042146
+llama3-base,Length,113.40000000000002
+llama3-base,Stats-compression,3.053211493312393
+llama3-base,Stats-density,1.9003844363335436
+llama3-base,Stats-coverage,0.6210207879728965
+llama3-base,Novel unigram,0.4895525734776942
+llama3-base,Novel tri-gram,0.8715632498010933
+llama3-base,Novel bi-gram,0.7861001875965664
+llama3-base,Repeated unigram,0.1704340955609072
+llama3-base,Repeated bi-gram,0.039048511099474846
+llama3-base,Repeated tri-gram,0.01600354707377916
+llama3-5w1h,Length,123.46666666666665
+llama3-5w1h,Stats-compression,1.2975181660810053
+llama3-5w1h,Stats-density,1.451965807364927
+llama3-5w1h,Stats-coverage,0.5689060210358777
+llama3-5w1h,Novel unigram,0.5537000823573481
+llama3-5w1h,Novel tri-gram,0.9062548471441835
+llama3-5w1h,Novel bi-gram,0.8213252799810883
+llama3-5w1h,Repeated unigram,0.3264387889408887
+llama3-5w1h,Repeated bi-gram,0.1675953582511225
+llama3-5w1h,Repeated tri-gram,0.1088726818778115
+llama3-tldr,Length,49.79999999999999
+llama3-tldr,Stats-compression,3.4413488308213367
+llama3-tldr,Stats-density,2.232754102468718
+llama3-tldr,Stats-coverage,0.6724104882064604
+llama3-tldr,Novel unigram,0.38286613481315546
+llama3-tldr,Novel tri-gram,0.8114715882804084
+llama3-tldr,Novel bi-gram,0.7046815495174771
+llama3-tldr,Repeated unigram,0.12531473794628242
+llama3-tldr,Repeated bi-gram,0.022742753367991437
+llama3-tldr,Repeated tri-gram,0.011188393599647321
